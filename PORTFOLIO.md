@@ -23,6 +23,12 @@ The walkthrough covers a complete first-value workflow:
 
 > **Viewing note:** GitHub's standard Markdown preview does not process Elastic documentation substitutions such as `{{es}}` and `{{ecloud}}`. These render as **Elasticsearch** and **Elastic Cloud** when the page is built with Elastic's documentation toolchain. The sample was validated in the rendered Elastic documentation interface.
 
+### Rendered documentation preview
+
+![Rendered Elasticsearch Serverless Getting Started documentation in Elastic's documentation interface.](get-started/images/portfolio-rendered-docs-preview.png)
+
+*Rendered locally with Elastic's documentation toolchain. GitHub's standard Markdown preview does not process Elastic-specific substitutions used in the source.*
+
 The sample was authored directly within Elastic's public documentation repository structure and follows the repository's front matter, navigation, substitution, Markdown, and build conventions.
 
 ## What this project demonstrates
