@@ -2,6 +2,7 @@ project: 'Elastic Fundamentals'
 toc:
   - file: index.md
   - file: evaluate-elastic.md
+  - file: elasticsearch-serverless-first-search.md
   - file: introduction.md
   - file: deployment-options.md
   - file: the-stack.md
