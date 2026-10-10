@@ -21,6 +21,8 @@ The walkthrough covers a complete first-value workflow:
 
 **[Get started with Elasticsearch Serverless](get-started/elasticsearch-serverless-first-search.md)**
 
+> **Viewing note:** GitHub's standard Markdown preview does not process Elastic documentation substitutions such as `{{es}}` and `{{ecloud}}`. These render as **Elasticsearch** and **Elastic Cloud** when the page is built with Elastic's documentation toolchain. The sample was validated in the rendered Elastic documentation interface.
+
 The sample was authored directly within Elastic's public documentation repository structure and follows the repository's front matter, navigation, substitution, Markdown, and build conventions.
 
 ## What this project demonstrates
